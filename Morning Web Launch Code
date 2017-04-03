@@ -1,0 +1,10 @@
+#This program launches my morning websites that I check
+#I am learning Python so if there is a better way to do this, let me know
+import webbrowser
+webbrowser.open('www.gmail.com')
+webbrowser.open('www.reddit.com/r/all')
+webbrowser.open('www.facebook.com')
+webbrowser.open('www.huffingtonpost.com')
+webbrowser.open('https://tweetdeck.twitter.com/')
+webbrowser.open('https://basecamp.com/')
+webbrowser.open('https://www.linkedin.com/')
